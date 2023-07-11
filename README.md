@@ -35,7 +35,7 @@ python -m venv env
 - On Windows:
 
 ```
-venv\Scripts\activate
+env\Scripts\activate
 ```
 
 - On Linux/Mac:
