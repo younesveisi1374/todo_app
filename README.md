@@ -41,7 +41,7 @@ env\Scripts\activate
 - On Linux/Mac:
 
 ```
-source venv/bin/activate
+source env/bin/activate
 ```
 
 5. Install the required packages:
