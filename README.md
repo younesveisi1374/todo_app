@@ -10,14 +10,7 @@ A simple and easy-to-use ToDo App built with Django. This application allows use
 - View all tasks in a list
 
 ## Installation
-1. First, make sure that MYSQL is installed on your system.
-2. Then install the MySQL Shell for VS Code plugin in the vscode program and connect to Data Base.
-3. To create the database, you must enter the following command:
-```
-CREATE DATABASE todo_app
-```
-## Remember that in order to run the program correctly, you must enter your database information in the todo_project folder in the settings.py file in the DATABASES section, which includes the database name and password.
-After that, download and use the repository:
+
 
 1. Clone the repository:
 
@@ -57,7 +50,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-
+## Before Running:
+1. First, make sure that MYSQL is installed on your system.
+2. Then install the MySQL Shell for VS Code plugin in the vscode program and connect to Data Base.
+3. To create the database, you must enter the following command:
+```
+CREATE DATABASE todo_app
+```
+## Remember that in order to run the program correctly, you must enter your database information in the todo_project folder in the settings.py file in the DATABASES section, which includes the database name and password.
 ## Running the Application
 
 1. Run the migrations:
