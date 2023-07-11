@@ -21,7 +21,7 @@ git clone https://github.com/younesveisi1374/todo_app.git
 2. Change to the project directory:
 
 ```
-cd todo_app
+cd todo_project
 ```
 
 3. Create a virtual environment:
@@ -35,13 +35,13 @@ python -m venv env
 - On Windows:
 
 ```
-venv\Scripts\activate
+env\Scripts\activate
 ```
 
 - On Linux/Mac:
 
 ```
-source venv/bin/activate
+source env/bin/activate
 ```
 
 5. Install the required packages:
