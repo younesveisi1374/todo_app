@@ -16,6 +16,7 @@ A simple and easy-to-use ToDo App built with Django. This application allows use
 ```
 CREATE DATABASE todo_app
 ```
+## Remember that in order to run the program correctly, you must enter your database information in the todo_project folder in the settings.py file in the DATABASES section, which includes the database name and password.
 After that, download and use the repository:
 
 1. Clone the repository:
