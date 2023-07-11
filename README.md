@@ -10,6 +10,13 @@ A simple and easy-to-use ToDo App built with Django. This application allows use
 - View all tasks in a list
 
 ## Installation
+1. First, make sure that MYSQL is installed on your system.
+2. Then install the MySQL Shell for VS Code plugin in the vscode program and connect to Data Beast.
+3. To create the database, you must enter the following command:
+```
+CREATE DATABASE todo_app
+```
+After that, download and use the repository:
 
 1. Clone the repository:
 
