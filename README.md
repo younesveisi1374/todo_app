@@ -1,4 +1,4 @@
-<h1>This Code Has Writted By <b><i>Younes Veisi</i></b></h1>
+<h1>This Code Has Written By <b><i>Younes Veisi</i></b></h1>
 
 # ToDo-List App
 
