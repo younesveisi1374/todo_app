@@ -1,4 +1,4 @@
-# ToDo App
+# ToDo-List App
 
 A simple and easy-to-use ToDo App built with Django. This application allows users to create, update, and delete tasks, helping them stay organized and manage their daily tasks efficiently.
 
