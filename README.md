@@ -1,5 +1,3 @@
-Based on the provided information, I have updated the README.md file for your Django project. You can customize it further as needed.
-
 ```
 # ToDo App
 
