@@ -27,7 +27,7 @@ cd todo_app
 3. Create a virtual environment:
 
 ```
-python -m venv venv
+python -m venv env
 ```
 
 4. Activate the virtual environment:
