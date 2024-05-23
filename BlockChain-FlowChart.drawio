@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:47:58.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wWDohVFtpHDkE9DsQ8Ep" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:49:53.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="82amnioK3HxndkPU7vtF" version="24.3.1" type="github">
   <diagram name="Page-1" id="wFLTssLCdgid32e7mVHK">
     <mxGraphModel dx="2026" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,6 +116,27 @@
         </mxCell>
         <mxCell id="xI1v8yjOtruwXXIbDLAx-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Nonce (یک عدد افزایشی)&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=0;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="670" y="435" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-66" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;خیر&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=0;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-68" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="655" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-69" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;PoW حل شد. پاداش استخراج&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=0;opacity=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="650" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-71" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;پایان&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="785" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="705" as="sourcePoint" />
+            <mxPoint x="449.5" y="755" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
