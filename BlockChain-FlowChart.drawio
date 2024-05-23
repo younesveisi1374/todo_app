@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T07:49:53.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="82amnioK3HxndkPU7vtF" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T07:51:41.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="78tuPJtt4QBN36F8fjQe" version="24.3.1" type="github">
   <diagram name="Page-1" id="wFLTssLCdgid32e7mVHK">
-    <mxGraphModel dx="2026" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
           <mxGeometry x="645" y="440" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xI1v8yjOtruwXXIbDLAx-56" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Nonce (یک عدد افزایشی)&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=0;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="670" y="435" width="160" height="60" as="geometry" />
+          <mxGeometry x="655" y="435" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xI1v8yjOtruwXXIbDLAx-66" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;خیر&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=0;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="70" height="30" as="geometry" />
@@ -137,6 +137,18 @@
             <mxPoint x="449.5" y="705" as="sourcePoint" />
             <mxPoint x="449.5" y="755" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-73" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(33, 33, 33); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;شروع فرآیند اثبات کار&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-74" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(33, 33, 33); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;استخراج‌کننده تراکنش‌های تایید نشده را از شبکه دریافت می‌کند.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="140" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-75" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(33, 33, 33); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;استخراج‌کننده تراکنش‌ها را در یک بلوک جدید جمع‌آوری می‌کند.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="235" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xI1v8yjOtruwXXIbDLAx-76" value="&lt;span style=&quot;color: rgb(236, 236, 236); font-family: ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(33, 33, 33); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;استخراج‌کننده هش بلوک شامل اطلاعات بلوک قبلی، تراکنش‌ها، و nonce را محاسبه می‌کند.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
